@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-rocknroll (1.000-20210120-2) unstable; urgency=medium
 
-  * Initial release
+  * Upload to unstable
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Hideki Yamane <henrich@debian.org>  Fri, 05 Feb 2021 08:50:17 +0900
+
+fonts-rocknroll (1.000-20210120-1) experimental; urgency=medium
+
+  * Initial release (Closes: #981832)
+
+ -- Hideki Yamane <henrich@debian.org>  Fri, 29 Jan 2021 01:28:44 +0900
